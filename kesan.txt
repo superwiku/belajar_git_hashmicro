@@ -1,1 +1,2 @@
 KESAN BELAJAR GIT HASHMICRO
+"Setelah belajar bersama Pak Wiku, saya merasa banyak sekali mendapatkan insight baru terkait implementasi git seperti fork, integrasi antara git lokal dengan git server melalui GitHub, menambahkan collaborator dan sebagainya." - Titus
