@@ -1,5 +1,8 @@
 KESAN BELAJAR GIT HASHMICRO
 
+Seru, pembawaan materi juga menyenangkan
+
+
 "Setelah belajar bersama Pak Wiku, saya merasa banyak sekali mendapatkan insight baru terkait implementasi git seperti fork, integrasi antara git lokal dengan git server melalui GitHub, menambahkan collaborator dan sebagainya." - Titus
 
 
@@ -13,6 +16,7 @@ Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas se
 
 - Mudah dipahami
 - Mudah diikuti
+
 
 
 
