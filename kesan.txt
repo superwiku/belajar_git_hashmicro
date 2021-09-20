@@ -1,5 +1,9 @@
 KESAN BELAJAR GIT HASHMICRO
 
+Dengan menggunakan Git semua orang yang terlibat dalam pengkodean proyek akan menyimpan database Git, sehingga sangat memudahkan dalam mengelola proyek baik online maupun offline. 
+Dengan kata lain Git sebenarnya bertugas memantau semua perubahan yang terjadi pada fiile proyek, lalu menyimpannya di database.
+
+
 
 Nama: Rexy Gideon Manurung
 Kesan:
@@ -34,6 +38,7 @@ Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas se
 
 - Mudah dipahami
 - Mudah diikuti
+
 
 
 
