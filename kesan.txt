@@ -1,3 +1,32 @@
 KESAN BELAJAR GIT HASHMICRO
 
+
 Belajar Git dengan bapak Wiku sangat enjoy sekali dan mudah dimengerti, karena pembawaan materinya yang santai dan kosa kata atau pola kalimat yang digunakan oleh pak Wiku mudah untuk dipahami.
+
+1. pak wiku ramah dan sabar
+2. sering terputus-putus saat menjelaskan yang berdampak pada kejelasan materi yang disampaikan jadi kurang jelas
+
+
+Seru, pembawaan materi juga menyenangkan
+
+
+"Setelah belajar bersama Pak Wiku, saya merasa banyak sekali mendapatkan insight baru terkait implementasi git seperti fork, integrasi antara git lokal dengan git server melalui GitHub, menambahkan collaborator dan sebagainya." - Titus
+
+
+Kesan       : Sangat bermanfaat bagi saya yang baru mempelajari git dan github. Terimakasih Pak Wiku.
+
+
+Belajar git dengan pak wiku asik karena tidak hanya materi namun juga diikuti dengan latihan 
+
+
+Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas setiap materi tidak hanya sebatas pada teori.
+
+- Mudah dipahami
+- Mudah diikuti
+
+
+
+
+
+
+
