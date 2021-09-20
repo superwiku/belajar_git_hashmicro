@@ -1,6 +1,9 @@
 KESAN BELAJAR GIT HASHMICRO
 
 
+Kesan       : Sangat bermanfaat bagi saya yang baru mempelajari git dan github. Terimakasih Pak Wiku.
+
+
 Belajar git dengan pak wiku asik karena tidak hanya materi namun juga diikuti dengan latihan 
 
 
@@ -8,5 +11,6 @@ Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas se
 
 - Mudah dipahami
 - Mudah diikuti
+
 
 
