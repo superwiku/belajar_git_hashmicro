@@ -1,5 +1,23 @@
 KESAN BELAJAR GIT HASHMICRO
 
+Dengan menggunakan Git semua orang yang terlibat dalam pengkodean proyek akan menyimpan database Git, sehingga sangat memudahkan dalam mengelola proyek baik online maupun offline. 
+Dengan kata lain Git sebenarnya bertugas memantau semua perubahan yang terjadi pada fiile proyek, lalu menyimpannya di database.
+
+
+
+Nama: Rexy Gideon Manurung
+Kesan:
+"Selama 2 minggu internship di Hashmicro rasanya menyenangkan mendapat ilmu baru dan relasi baru. Para pengajar yang
+memberikan materi di sini pun menyampaikan materi dengan sangat baik dan mendasar, sehingga pemahaman bahasa
+pemrograman yang saya dapat lebih matang dan semakin siap dalam berkontribusi langsung untuk perusahaan Hashmicro."
+
+-mudah dipahami 
+-mentor sabar dan baik 
+
+
+
+Belajar Git dengan bapak Wiku sangat enjoy sekali dan mudah dimengerti, karena pembawaan materinya yang santai dan kosa kata atau pola kalimat yang digunakan oleh pak Wiku mudah untuk dipahami.
+
 1. pak wiku ramah dan sabar
 2. sering terputus-putus saat menjelaskan yang berdampak pada kejelasan materi yang disampaikan jadi kurang jelas
 
@@ -22,6 +40,10 @@ Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas se
 - Mudah diikuti
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
 
 
 
